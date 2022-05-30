@@ -1,11 +1,11 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Elizanea Campelo
+- Marcio Vignoli de Lima
+- Thiago Vernizzi Silva
 
-Link do Surge: www.link.com.br
+Link do Surge: INSERIR AQUI
 
 O que funciona:
 - Item 1
